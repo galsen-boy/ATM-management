@@ -1,0 +1,10 @@
+1 1 Michel 2 2/5/2001 Portugal 123543455 10023.23 fixed01
+
+2 0 Michel 123 10/10/2020 UK 1234123 12345.30 saving
+
+4 4 zxcv 10 10/23/2023 india 123483 15000.00 saving
+
+5 4 zxcv 19 11/12/2012 china 14238647 15302.00 current
+
+6 2 asdf 123 2/2/2023 japan 1234123 30000.00 saving
+
